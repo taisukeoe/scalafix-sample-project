@@ -5,4 +5,6 @@ class Sample {
   def run() {
     return
   }
+
+  def hello = "hello"
 }
